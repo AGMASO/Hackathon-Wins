@@ -4,6 +4,7 @@ This repository collects all the projects I've built that have won prizes at hac
 
 | 🗓️ Hackathon | 💡 Project | 🥇 Award | 🔗 Link |
 |--------------|-------------|-----------|------------|
+| Hoockathon Uniswap Foundation | RampHook | Winner of Across Prize | [Repository](https://github.com/AGMASO/RampHook) |
 | EthGlobal Prague 2025 | InspectiFI | Winner of 1inch and Blockscout Prizes | [Repository](https://github.com/AGMASO/EthPrague2025) |
 | EthDam 2025 | ShieldWallet | 🥇 Best Security Project | [Repository](https://github.com/AGMASO/EthDam-ShieldWallet) |
 | Chainlink Hackathon 2023 | Notional | Winner of Chainlink Top Quality Projects | [Repository](https://devpost.com/software/notional) |
